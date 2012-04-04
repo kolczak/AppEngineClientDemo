@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PostGetAppEngineExampleActivity!</string>
+    <string name="app_name">AppEngineClientDemo</string>
+    <string name="m_name">Name</string>
+    <string name="m_message">Message</string>
+    <string name="m_bt_submit">Submit</string>
+    <string name="m_bt_messages">Messages</string>
+    
+    <string name="msg_messages_view">Messages View</string>
+</resources>
